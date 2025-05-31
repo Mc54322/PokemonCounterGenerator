@@ -1,0 +1,157 @@
+{
+  "Rule SmogonDB": {
+    "total_battles": 7880,
+    "average_win_rate": 0.6100253807106599,
+    "median_win_rate": 0.65,
+    "win_rate_std": 0.2951814025694754,
+    "average_evaluation_time": 0.09340354875864716,
+    "total_evaluation_time": 36.80099821090698,
+    "unique_pokemon": 169,
+    "unique_counters": 89,
+    "success_rate": 0.9924433249370277
+  },
+  "AI NoWeights SmogonDB": {
+    "total_battles": 7880,
+    "average_win_rate": 0.37208121827411167,
+    "median_win_rate": 0.3,
+    "win_rate_std": 0.3248522600233496,
+    "average_evaluation_time": 0.12971946612227386,
+    "total_evaluation_time": 51.1094696521759,
+    "unique_pokemon": 169,
+    "unique_counters": 99,
+    "success_rate": 0.9924433249370277
+  },
+  "AI Rounds5 SmogonDB": {
+    "total_battles": 7880,
+    "average_win_rate": 0.38109137055837555,
+    "median_win_rate": 0.3,
+    "win_rate_std": 0.32584449182324976,
+    "average_evaluation_time": 0.12968869378724074,
+    "total_evaluation_time": 51.09734535217285,
+    "unique_pokemon": 169,
+    "unique_counters": 106,
+    "success_rate": 0.9924433249370277
+  },
+  "AI Rounds10 SmogonDB": {
+    "total_battles": 7880,
+    "average_win_rate": 0.38654822335025385,
+    "median_win_rate": 0.32499999999999996,
+    "win_rate_std": 0.3266714918261144,
+    "average_evaluation_time": 0.12203055650449646,
+    "total_evaluation_time": 48.080039262771606,
+    "unique_pokemon": 169,
+    "unique_counters": 102,
+    "success_rate": 0.9924433249370277
+  },
+  "AI Rounds15 SmogonDB": {
+    "total_battles": 7880,
+    "average_win_rate": 0.3625634517766497,
+    "median_win_rate": 0.3,
+    "win_rate_std": 0.32435220589659747,
+    "average_evaluation_time": 0.12374320611130768,
+    "total_evaluation_time": 48.754823207855225,
+    "unique_pokemon": 169,
+    "unique_counters": 96,
+    "success_rate": 0.9924433249370277
+  },
+  "AI Rounds20 SmogonDB": {
+    "total_battles": 7880,
+    "average_win_rate": 0.391243654822335,
+    "median_win_rate": 0.3,
+    "win_rate_std": 0.337865966352307,
+    "average_evaluation_time": 0.14799815688641543,
+    "total_evaluation_time": 58.31127381324768,
+    "unique_pokemon": 169,
+    "unique_counters": 124,
+    "success_rate": 0.9924433249370277
+  },
+  "AI Rounds5 Battles100 SmogonDB": {
+    "total_battles": 7880,
+    "average_win_rate": 0.383248730964467,
+    "median_win_rate": 0.35,
+    "win_rate_std": 0.3266354101381941,
+    "average_evaluation_time": 0.13428557463708868,
+    "total_evaluation_time": 52.90851640701294,
+    "unique_pokemon": 169,
+    "unique_counters": 103,
+    "success_rate": 0.9924433249370277
+  },
+  "AI Rounds10 Battles100 SmogonDB": {
+    "total_battles": 7880,
+    "average_win_rate": 0.40621827411167516,
+    "median_win_rate": 0.35,
+    "win_rate_std": 0.33318291222471247,
+    "average_evaluation_time": 0.14479575968030745,
+    "total_evaluation_time": 57.04952931404114,
+    "unique_pokemon": 169,
+    "unique_counters": 99,
+    "success_rate": 0.9924433249370277
+  },
+  "Rule GeneratedDB": {
+    "total_battles": 7920,
+    "average_win_rate": 0.815530303030303,
+    "median_win_rate": 0.9,
+    "win_rate_std": 0.22787954088805554,
+    "average_evaluation_time": 0.10626848960163618,
+    "total_evaluation_time": 42.082321882247925,
+    "unique_pokemon": 191,
+    "unique_counters": 89,
+    "success_rate": 0.9949748743718593
+  },
+  "AI NoWeights GeneratedDB": {
+    "total_battles": 7920,
+    "average_win_rate": 0.5813131313131313,
+    "median_win_rate": 0.65,
+    "win_rate_std": 0.3850586579405535,
+    "average_evaluation_time": 0.16721626423826122,
+    "total_evaluation_time": 66.21764063835144,
+    "unique_pokemon": 191,
+    "unique_counters": 88,
+    "success_rate": 0.9949748743718593
+  },
+  "AI Rounds5 GeneratedDB": {
+    "total_battles": 7920,
+    "average_win_rate": 0.5946969696969697,
+    "median_win_rate": 0.7,
+    "win_rate_std": 0.3783002077460009,
+    "average_evaluation_time": 0.16215529646536317,
+    "total_evaluation_time": 64.21349740028381,
+    "unique_pokemon": 191,
+    "unique_counters": 87,
+    "success_rate": 0.9949748743718593
+  },
+  "AI Rounds10 GeneratedDB": {
+    "total_battles": 7920,
+    "average_win_rate": 0.5949494949494949,
+    "median_win_rate": 0.675,
+    "win_rate_std": 0.37617293016928977,
+    "average_evaluation_time": 0.15948253087323122,
+    "total_evaluation_time": 63.15508222579956,
+    "unique_pokemon": 191,
+    "unique_counters": 89,
+    "success_rate": 0.9949748743718593
+  },
+  "AI Rounds15 GeneratedDB": {
+    "total_battles": 7920,
+    "average_win_rate": 0.5941919191919193,
+    "median_win_rate": 0.65,
+    "win_rate_std": 0.37284958590118766,
+    "average_evaluation_time": 0.15736327026829575,
+    "total_evaluation_time": 62.31585502624512,
+    "unique_pokemon": 191,
+    "unique_counters": 90,
+    "success_rate": 0.9949748743718593
+  },
+  "AI Rounds20 GeneratedDB": {
+    "total_battles": 7920,
+    "average_win_rate": 0.6061868686868687,
+    "median_win_rate": 0.7,
+    "win_rate_std": 0.37293682965850883,
+    "average_evaluation_time": 0.1622176037894355,
+    "total_evaluation_time": 64.23817110061646,
+    "unique_pokemon": 191,
+    "unique_counters": 91,
+    "success_rate": 0.9949748743718593
+  }
+  
+}

@@ -1,0 +1,3206 @@
+{
+  "config": {
+    "max_pokemon": 200,
+    "battles_per_counter": 20,
+    "max_counters_per_pokemon": 2,
+    "timeout_per_battle_set": 30,
+    "memory_limit_mb": 2000
+  },
+  "counter_type": "AI-Enhanced",
+  "aliases_loaded": 105,
+  "total_evaluations": 396,
+  "failed_evaluations": 2,
+  "results": [
+    {
+      "pokemon_name": "Deoxys (Attack Forme)",
+      "counter_name": "Giratina (Altered Forme)",
+      "counter_weight": 2.5609360995413337,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.08377218246459961
+    },
+    {
+      "pokemon_name": "Deoxys (Attack Forme)",
+      "counter_name": "Giratina (Origin Forme)",
+      "counter_weight": 2.5109360995413335,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.05527615547180176
+    },
+    {
+      "pokemon_name": "Arceus",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.65,
+      "evaluation_time": 0.15458369255065918
+    },
+    {
+      "pokemon_name": "Arceus",
+      "counter_name": "Scrafty",
+      "counter_weight": 2.5348333333333333,
+      "battles_completed": 20,
+      "win_rate": 0.3,
+      "evaluation_time": 0.13100194931030273
+    },
+    {
+      "pokemon_name": "Lugia",
+      "counter_name": "Magnezone",
+      "counter_weight": 2.5581666666666676,
+      "battles_completed": 20,
+      "win_rate": 0.35,
+      "evaluation_time": 0.12238597869873047
+    },
+    {
+      "pokemon_name": "Lugia",
+      "counter_name": "Magneton",
+      "counter_weight": 2.546500000000001,
+      "battles_completed": 20,
+      "win_rate": 0.65,
+      "evaluation_time": 0.15371966361999512
+    },
+    {
+      "pokemon_name": "Jirachi",
+      "counter_name": "Hisuian Typhlosion",
+      "counter_weight": 2.8205000000000005,
+      "battles_completed": 20,
+      "win_rate": 0.55,
+      "evaluation_time": 0.09246277809143066
+    },
+    {
+      "pokemon_name": "Jirachi",
+      "counter_name": "Skeledirge",
+      "counter_weight": 2.719833333333334,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.08633685111999512
+    },
+    {
+      "pokemon_name": "Hoopa Unbound",
+      "counter_name": "Lokix",
+      "counter_weight": 3.2665000000000006,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.04847216606140137
+    },
+    {
+      "pokemon_name": "Hoopa Unbound",
+      "counter_name": "Heracross",
+      "counter_weight": 3.111833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.55,
+      "evaluation_time": 0.0742940902709961
+    },
+    {
+      "pokemon_name": "Eelektrik",
+      "counter_name": "Golurk",
+      "counter_weight": 2.2110000000000003,
+      "battles_completed": 20,
+      "win_rate": 0.55,
+      "evaluation_time": 0.1013340950012207
+    },
+    {
+      "pokemon_name": "Eelektrik",
+      "counter_name": "Excadrill",
+      "counter_weight": 2.1401666666666666,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.1540999412536621
+    },
+    {
+      "pokemon_name": "Cutiefly",
+      "counter_name": "Tinkaton",
+      "counter_weight": 2.8108333333333335,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.3703911304473877
+    },
+    {
+      "pokemon_name": "Cutiefly",
+      "counter_name": "Kingambit",
+      "counter_weight": 2.754269432874667,
+      "battles_completed": 20,
+      "win_rate": 0.8,
+      "evaluation_time": 0.1408367156982422
+    },
+    {
+      "pokemon_name": "Coalossal",
+      "counter_name": "Kyogre",
+      "counter_weight": 4.287166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.1316509246826172
+    },
+    {
+      "pokemon_name": "Coalossal",
+      "counter_name": "Greninja",
+      "counter_weight": 4.113833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.55,
+      "evaluation_time": 0.11471319198608398
+    },
+    {
+      "pokemon_name": "Shellder",
+      "counter_name": "Decidueye",
+      "counter_weight": 2.619833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.07781004905700684
+    },
+    {
+      "pokemon_name": "Shellder",
+      "counter_name": "Rotom",
+      "counter_weight": 2.5188333333333337,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.048503875732421875
+    },
+    {
+      "pokemon_name": "Armarouge",
+      "counter_name": "Greninja",
+      "counter_weight": 2.719833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.5,
+      "evaluation_time": 0.11336708068847656
+    },
+    {
+      "pokemon_name": "Armarouge",
+      "counter_name": "Hisuian Samurott",
+      "counter_weight": 2.6945000000000006,
+      "battles_completed": 20,
+      "win_rate": 0.7,
+      "evaluation_time": 0.07220697402954102
+    },
+    {
+      "pokemon_name": "Archaludon",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.85,
+      "evaluation_time": 0.27570128440856934
+    },
+    {
+      "pokemon_name": "Archaludon",
+      "counter_name": "Scrafty",
+      "counter_weight": 2.5348333333333333,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.28287792205810547
+    },
+    {
+      "pokemon_name": "Corviknight",
+      "counter_name": "Incineroar",
+      "counter_weight": 2.694833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.4,
+      "evaluation_time": 0.1766798496246338
+    },
+    {
+      "pokemon_name": "Corviknight",
+      "counter_name": "Chi-Yu",
+      "counter_weight": 2.5315000000000007,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.0487217903137207
+    },
+    {
+      "pokemon_name": "Hitmonchan",
+      "counter_name": "Bombirdier",
+      "counter_weight": 2.8473333333333337,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.172896146774292
+    },
+    {
+      "pokemon_name": "Hitmonchan",
+      "counter_name": "Galarian Moltres",
+      "counter_weight": 2.788166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.45,
+      "evaluation_time": 0.1014547348022461
+    },
+    {
+      "pokemon_name": "Inteleon",
+      "counter_name": "Wo-Chien",
+      "counter_weight": 2.6505000000000005,
+      "battles_completed": 20,
+      "win_rate": 0.75,
+      "evaluation_time": 0.12310600280761719
+    },
+    {
+      "pokemon_name": "Inteleon",
+      "counter_name": "Meowscarada",
+      "counter_weight": 2.619833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.7,
+      "evaluation_time": 0.20027494430541992
+    },
+    {
+      "pokemon_name": "Walking Wake",
+      "counter_name": "Kommo-o",
+      "counter_weight": 2.5565,
+      "battles_completed": 20,
+      "win_rate": 0.5,
+      "evaluation_time": 0.1410369873046875
+    },
+    {
+      "pokemon_name": "Walking Wake",
+      "counter_name": "Giratina (Altered Forme)",
+      "counter_weight": 2.3338333333333336,
+      "battles_completed": 20,
+      "win_rate": 0.65,
+      "evaluation_time": 0.09359192848205566
+    },
+    {
+      "pokemon_name": "Arceus",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.6,
+      "evaluation_time": 0.1536388397216797
+    },
+    {
+      "pokemon_name": "Arceus",
+      "counter_name": "Lucario",
+      "counter_weight": 2.391,
+      "battles_completed": 20,
+      "win_rate": 0.1,
+      "evaluation_time": 0.10952496528625488
+    },
+    {
+      "pokemon_name": "Greninja",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.6926666666666668,
+      "battles_completed": 20,
+      "win_rate": 0.7,
+      "evaluation_time": 0.12042808532714844
+    },
+    {
+      "pokemon_name": "Greninja",
+      "counter_name": "Magnezone",
+      "counter_weight": 2.6456666666666675,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.04818892478942871
+    },
+    {
+      "pokemon_name": "Servine",
+      "counter_name": "Hisuian Typhlosion",
+      "counter_weight": 2.8205000000000005,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.061372995376586914
+    },
+    {
+      "pokemon_name": "Servine",
+      "counter_name": "Skeledirge",
+      "counter_weight": 2.719833333333334,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.0936288833618164
+    },
+    {
+      "pokemon_name": "Hitmontop",
+      "counter_name": "Bombirdier",
+      "counter_weight": 2.8473333333333337,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.22951006889343262
+    },
+    {
+      "pokemon_name": "Hitmontop",
+      "counter_name": "Mandibuzz",
+      "counter_weight": 2.8276027662080003,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.31142306327819824
+    },
+    {
+      "pokemon_name": "Stunky",
+      "counter_name": "Golurk",
+      "counter_weight": 2.2110000000000003,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.05687999725341797
+    },
+    {
+      "pokemon_name": "Stunky",
+      "counter_name": "Palossand",
+      "counter_weight": 2.1855,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.06476902961730957
+    },
+    {
+      "pokemon_name": "Lycanroc (Midday Form)",
+      "counter_name": "Scrafty",
+      "counter_weight": 2.797333333333333,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.09799671173095703
+    },
+    {
+      "pokemon_name": "Lycanroc (Midday Form)",
+      "counter_name": "Scraggy",
+      "counter_weight": 2.7739999999999996,
+      "battles_completed": 20,
+      "win_rate": 0.1,
+      "evaluation_time": 0.22392797470092773
+    },
+    {
+      "pokemon_name": "Annihilape",
+      "counter_name": "Braviary",
+      "counter_weight": 2.7515,
+      "battles_completed": 20,
+      "win_rate": 0.1,
+      "evaluation_time": 0.07234406471252441
+    },
+    {
+      "pokemon_name": "Annihilape",
+      "counter_name": "Staraptor",
+      "counter_weight": 2.7473333333333336,
+      "battles_completed": 20,
+      "win_rate": 0.15,
+      "evaluation_time": 0.104583740234375
+    },
+    {
+      "pokemon_name": "Floatzel",
+      "counter_name": "Magnezone",
+      "counter_weight": 2.6456666666666675,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.040225982666015625
+    },
+    {
+      "pokemon_name": "Floatzel",
+      "counter_name": "Magneton",
+      "counter_weight": 2.634000000000001,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.11205196380615234
+    },
+    {
+      "pokemon_name": "Galarian Zapdos",
+      "counter_name": "Lugia",
+      "counter_weight": 2.6173333333333333,
+      "battles_completed": 20,
+      "win_rate": 0.6,
+      "evaluation_time": 0.10463523864746094
+    },
+    {
+      "pokemon_name": "Galarian Zapdos",
+      "counter_name": "Rotom",
+      "counter_weight": 2.5188333333333337,
+      "battles_completed": 20,
+      "win_rate": 0.6,
+      "evaluation_time": 0.13451910018920898
+    },
+    {
+      "pokemon_name": "Oricorio (Pa'u Style)",
+      "counter_name": "Diancie",
+      "counter_weight": 2.6815000000000007,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.07449078559875488
+    },
+    {
+      "pokemon_name": "Oricorio (Pa'u Style)",
+      "counter_name": "Magnezone",
+      "counter_weight": 2.6456666666666675,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.038945674896240234
+    },
+    {
+      "pokemon_name": "Weezing",
+      "counter_name": "Slowbro",
+      "counter_weight": 2.227166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.85,
+      "evaluation_time": 0.05888104438781738
+    },
+    {
+      "pokemon_name": "Weezing",
+      "counter_name": "Slowking",
+      "counter_weight": 2.227166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.06368398666381836
+    },
+    {
+      "pokemon_name": "Fezandipiti",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.853166666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.15460491180419922
+    },
+    {
+      "pokemon_name": "Fezandipiti",
+      "counter_name": "Tinkaton",
+      "counter_weight": 2.8108333333333335,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.4592750072479248
+    },
+    {
+      "pokemon_name": "Heracross",
+      "counter_name": "Braviary",
+      "counter_weight": 4.5305,
+      "battles_completed": 20,
+      "win_rate": 0.05,
+      "evaluation_time": 0.08057689666748047
+    },
+    {
+      "pokemon_name": "Heracross",
+      "counter_name": "Staraptor",
+      "counter_weight": 4.5263333333333335,
+      "battles_completed": 20,
+      "win_rate": 0.4,
+      "evaluation_time": 0.0867619514465332
+    },
+    {
+      "pokemon_name": "Ogerpon (Hearthflame Mask)",
+      "counter_name": "Pecharunt",
+      "counter_weight": 2.6615000000000006,
+      "battles_completed": 20,
+      "win_rate": 0.05,
+      "evaluation_time": 0.0764610767364502
+    },
+    {
+      "pokemon_name": "Ogerpon (Hearthflame Mask)",
+      "counter_name": "Haunter",
+      "counter_weight": 2.5540000000000003,
+      "battles_completed": 20,
+      "win_rate": 0.55,
+      "evaluation_time": 0.16231822967529297
+    },
+    {
+      "pokemon_name": "Zarude",
+      "counter_name": "Heracross",
+      "counter_weight": 3.636833333333334,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.08584904670715332
+    },
+    {
+      "pokemon_name": "Zarude",
+      "counter_name": "Scyther",
+      "counter_weight": 3.2498333333333336,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.4712338447570801
+    },
+    {
+      "pokemon_name": "Corphish",
+      "counter_name": "Decidueye",
+      "counter_weight": 2.444833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.45,
+      "evaluation_time": 0.08059167861938477
+    },
+    {
+      "pokemon_name": "Corphish",
+      "counter_name": "Venusaur",
+      "counter_weight": 2.3190000000000004,
+      "battles_completed": 20,
+      "win_rate": 0.55,
+      "evaluation_time": 0.8665108680725098
+    },
+    {
+      "pokemon_name": "Rayquaza",
+      "counter_name": "Alolan Sandslash",
+      "counter_weight": 3.490500000000001,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.05480194091796875
+    },
+    {
+      "pokemon_name": "Rayquaza",
+      "counter_name": "Alolan Sandshrew",
+      "counter_weight": 3.4655000000000005,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.05397200584411621
+    },
+    {
+      "pokemon_name": "Bellsprout",
+      "counter_name": "Hisuian Typhlosion",
+      "counter_weight": 2.8205000000000005,
+      "battles_completed": 20,
+      "win_rate": 0.85,
+      "evaluation_time": 0.10534405708312988
+    },
+    {
+      "pokemon_name": "Bellsprout",
+      "counter_name": "Skeledirge",
+      "counter_weight": 2.719833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.06534600257873535
+    },
+    {
+      "pokemon_name": "Gible",
+      "counter_name": "Alolan Ninetales",
+      "counter_weight": 3.624666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.8,
+      "evaluation_time": 0.06773209571838379
+    },
+    {
+      "pokemon_name": "Gible",
+      "counter_name": "Articuno",
+      "counter_weight": 3.562166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.7,
+      "evaluation_time": 0.13809800148010254
+    },
+    {
+      "pokemon_name": "Shellos",
+      "counter_name": "Meowscarada",
+      "counter_weight": 2.419833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.14922499656677246
+    },
+    {
+      "pokemon_name": "Shellos",
+      "counter_name": "Shiftry",
+      "counter_weight": 2.2855000000000003,
+      "battles_completed": 20,
+      "win_rate": 0.3,
+      "evaluation_time": 0.06130099296569824
+    },
+    {
+      "pokemon_name": "Galvantula",
+      "counter_name": "Hisuian Typhlosion",
+      "counter_weight": 2.8205000000000005,
+      "battles_completed": 20,
+      "win_rate": 0.35,
+      "evaluation_time": 0.09748029708862305
+    },
+    {
+      "pokemon_name": "Galvantula",
+      "counter_name": "Skeledirge",
+      "counter_weight": 2.719833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.65,
+      "evaluation_time": 0.08778691291809082
+    },
+    {
+      "pokemon_name": "Mesprit",
+      "counter_name": "Giratina (Altered Forme)",
+      "counter_weight": 2.509833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.85,
+      "evaluation_time": 0.16667389869689941
+    },
+    {
+      "pokemon_name": "Mesprit",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.493166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.65,
+      "evaluation_time": 0.45787715911865234
+    },
+    {
+      "pokemon_name": "Drilbur",
+      "counter_name": "Decidueye",
+      "counter_weight": 2.619833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.55,
+      "evaluation_time": 0.1492931842803955
+    },
+    {
+      "pokemon_name": "Drilbur",
+      "counter_name": "Empoleon",
+      "counter_weight": 2.4698333333333338,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.08468890190124512
+    },
+    {
+      "pokemon_name": "Sandile",
+      "counter_name": "Scrafty",
+      "counter_weight": 2.797333333333333,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.1430511474609375
+    },
+    {
+      "pokemon_name": "Sandile",
+      "counter_name": "Scraggy",
+      "counter_weight": 2.7739999999999996,
+      "battles_completed": 20,
+      "win_rate": 0.1,
+      "evaluation_time": 0.2264702320098877
+    },
+    {
+      "pokemon_name": "Arceus",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.6,
+      "evaluation_time": 0.15756916999816895
+    },
+    {
+      "pokemon_name": "Arceus",
+      "counter_name": "Lucario",
+      "counter_weight": 2.391,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.09049701690673828
+    },
+    {
+      "pokemon_name": "Primeape",
+      "counter_name": "Bombirdier",
+      "counter_weight": 2.8473333333333337,
+      "battles_completed": 20,
+      "win_rate": 0.05,
+      "evaluation_time": 0.08317208290100098
+    },
+    {
+      "pokemon_name": "Primeape",
+      "counter_name": "Galarian Moltres",
+      "counter_weight": 2.788166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.35,
+      "evaluation_time": 0.059114933013916016
+    },
+    {
+      "pokemon_name": "Indeedee (Male)",
+      "counter_name": "Sableye",
+      "counter_weight": 2.2528333333333337,
+      "battles_completed": 20,
+      "win_rate": 0.85,
+      "evaluation_time": 0.538686990737915
+    },
+    {
+      "pokemon_name": "Indeedee (Male)",
+      "counter_name": "Spiritomb",
+      "counter_weight": 2.1753333333333336,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.17765498161315918
+    },
+    {
+      "pokemon_name": "Leafeon",
+      "counter_name": "Hisuian Typhlosion",
+      "counter_weight": 2.8205000000000005,
+      "battles_completed": 20,
+      "win_rate": 0.4,
+      "evaluation_time": 0.08609294891357422
+    },
+    {
+      "pokemon_name": "Leafeon",
+      "counter_name": "Skeledirge",
+      "counter_weight": 2.719833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.07782220840454102
+    },
+    {
+      "pokemon_name": "Bruxish",
+      "counter_name": "Wo-Chien",
+      "counter_weight": 2.4755000000000003,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.21492576599121094
+    },
+    {
+      "pokemon_name": "Bruxish",
+      "counter_name": "Magnezone",
+      "counter_weight": 2.4706666666666677,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.04477405548095703
+    },
+    {
+      "pokemon_name": "Ursaluna",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.3263850212097168
+    },
+    {
+      "pokemon_name": "Ursaluna",
+      "counter_name": "Decidueye",
+      "counter_weight": 2.619833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.8322539329528809
+    },
+    {
+      "pokemon_name": "Thundurus (Incarnate Forme)",
+      "counter_name": "Diancie",
+      "counter_weight": 2.5065000000000004,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.07940983772277832
+    },
+    {
+      "pokemon_name": "Thundurus (Incarnate Forme)",
+      "counter_name": "Chien-Pao",
+      "counter_weight": 2.4715000000000007,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.10025811195373535
+    },
+    {
+      "pokemon_name": "Alolan Golem",
+      "counter_name": "Golurk",
+      "counter_weight": 3.4290000000000003,
+      "battles_completed": 20,
+      "win_rate": 0.7,
+      "evaluation_time": 0.054395198822021484
+    },
+    {
+      "pokemon_name": "Alolan Golem",
+      "counter_name": "Palossand",
+      "counter_weight": 3.4035000000000006,
+      "battles_completed": 20,
+      "win_rate": 0.75,
+      "evaluation_time": 0.07480287551879883
+    },
+    {
+      "pokemon_name": "Azurill",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.853166666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.07544517517089844
+    },
+    {
+      "pokemon_name": "Azurill",
+      "counter_name": "Pecharunt",
+      "counter_weight": 2.7126027662080006,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.14131689071655273
+    },
+    {
+      "pokemon_name": "Lunala",
+      "counter_name": "Sableye",
+      "counter_weight": 3.7538333333333345,
+      "battles_completed": 20,
+      "win_rate": 0.2,
+      "evaluation_time": 0.2239980697631836
+    },
+    {
+      "pokemon_name": "Lunala",
+      "counter_name": "Spiritomb",
+      "counter_weight": 3.6963333333333344,
+      "battles_completed": 20,
+      "win_rate": 0.7,
+      "evaluation_time": 0.2654151916503906
+    },
+    {
+      "pokemon_name": "Enamorus (Therian Forme)",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.753166666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.23611783981323242
+    },
+    {
+      "pokemon_name": "Enamorus (Therian Forme)",
+      "counter_name": "Pawniard",
+      "counter_weight": 2.718166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.6751010417938232
+    },
+    {
+      "pokemon_name": "Scraggy",
+      "counter_name": "Alcremie",
+      "counter_weight": 3.529000000000001,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.8090670108795166
+    },
+    {
+      "pokemon_name": "Scraggy",
+      "counter_name": "Flutter Mane",
+      "counter_weight": 3.4574848000000005,
+      "battles_completed": 20,
+      "win_rate": 0.6,
+      "evaluation_time": 0.18759512901306152
+    },
+    {
+      "pokemon_name": "Mismagius",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.493166666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.12709784507751465
+    },
+    {
+      "pokemon_name": "Mismagius",
+      "counter_name": "Sableye",
+      "counter_weight": 2.414833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.85,
+      "evaluation_time": 0.09034895896911621
+    },
+    {
+      "pokemon_name": "Mimikyu",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.853166666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.17844510078430176
+    },
+    {
+      "pokemon_name": "Mimikyu",
+      "counter_name": "Giratina (Altered Forme)",
+      "counter_weight": 2.5609360995413337,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.09888887405395508
+    },
+    {
+      "pokemon_name": "Snubbull",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.853166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.13965511322021484
+    },
+    {
+      "pokemon_name": "Snubbull",
+      "counter_name": "Skarmory",
+      "counter_weight": 2.7390000000000003,
+      "battles_completed": 20,
+      "win_rate": 0.6,
+      "evaluation_time": 0.24858808517456055
+    },
+    {
+      "pokemon_name": "Hisuian Sliggoo",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.8176666666666668,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.2120802402496338
+    },
+    {
+      "pokemon_name": "Hisuian Sliggoo",
+      "counter_name": "Lucario",
+      "counter_weight": 2.366,
+      "battles_completed": 20,
+      "win_rate": 0.15,
+      "evaluation_time": 0.1669168472290039
+    },
+    {
+      "pokemon_name": "Giratina (Altered Forme)",
+      "counter_name": "Kommo-o",
+      "counter_weight": 2.3815000000000004,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.07400393486022949
+    },
+    {
+      "pokemon_name": "Giratina (Altered Forme)",
+      "counter_name": "Zweilous",
+      "counter_weight": 2.3405000000000005,
+      "battles_completed": 20,
+      "win_rate": 0.15,
+      "evaluation_time": 0.0794382095336914
+    },
+    {
+      "pokemon_name": "Mamoswine",
+      "counter_name": "Hawlucha",
+      "counter_weight": 2.7118333333333333,
+      "battles_completed": 20,
+      "win_rate": 0.75,
+      "evaluation_time": 0.05333685874938965
+    },
+    {
+      "pokemon_name": "Mamoswine",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.678166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.35,
+      "evaluation_time": 0.07569479942321777
+    },
+    {
+      "pokemon_name": "Cramorant",
+      "counter_name": "Zapdos",
+      "counter_weight": 4.022166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.060842037200927734
+    },
+    {
+      "pokemon_name": "Cramorant",
+      "counter_name": "Jolteon",
+      "counter_weight": 3.9880000000000004,
+      "battles_completed": 20,
+      "win_rate": 0.55,
+      "evaluation_time": 0.07224178314208984
+    },
+    {
+      "pokemon_name": "Pelipper",
+      "counter_name": "Magnezone",
+      "counter_weight": 4.277166666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.02750682830810547
+    },
+    {
+      "pokemon_name": "Pelipper",
+      "counter_name": "Magneton",
+      "counter_weight": 4.2655,
+      "battles_completed": 20,
+      "win_rate": 0.45,
+      "evaluation_time": 0.14039182662963867
+    },
+    {
+      "pokemon_name": "Avalugg",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.8176666666666668,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.2774348258972168
+    },
+    {
+      "pokemon_name": "Avalugg",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.803166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.75,
+      "evaluation_time": 0.13211703300476074
+    },
+    {
+      "pokemon_name": "Arceus",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.25,
+      "evaluation_time": 0.12171602249145508
+    },
+    {
+      "pokemon_name": "Arceus",
+      "counter_name": "Lucario",
+      "counter_weight": 2.391,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.07445502281188965
+    },
+    {
+      "pokemon_name": "Alolan Ninetales",
+      "counter_name": "Tinkaton",
+      "counter_weight": 4.574833333333333,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.5497198104858398
+    },
+    {
+      "pokemon_name": "Alolan Ninetales",
+      "counter_name": "Bisharp",
+      "counter_weight": 4.442166666666666,
+      "battles_completed": 20,
+      "win_rate": 0.1,
+      "evaluation_time": 0.11969208717346191
+    },
+    {
+      "pokemon_name": "Deoxys (Speed Forme)",
+      "counter_name": "Giratina (Altered Forme)",
+      "counter_weight": 2.5609360995413337,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.07553291320800781
+    },
+    {
+      "pokemon_name": "Deoxys (Speed Forme)",
+      "counter_name": "Giratina (Origin Forme)",
+      "counter_weight": 2.5109360995413335,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.07968902587890625
+    },
+    {
+      "pokemon_name": "Revavroom",
+      "counter_name": "Golurk",
+      "counter_weight": 3.4290000000000003,
+      "battles_completed": 20,
+      "win_rate": 0.2,
+      "evaluation_time": 0.15484118461608887
+    },
+    {
+      "pokemon_name": "Revavroom",
+      "counter_name": "Palossand",
+      "counter_weight": 3.4035000000000006,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.13340401649475098
+    },
+    {
+      "pokemon_name": "Empoleon",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.75,
+      "evaluation_time": 0.15799498558044434
+    },
+    {
+      "pokemon_name": "Empoleon",
+      "counter_name": "Rotom",
+      "counter_weight": 2.5188333333333337,
+      "battles_completed": 20,
+      "win_rate": 0.1,
+      "evaluation_time": 0.16244888305664062
+    },
+    {
+      "pokemon_name": "Hisuian Typhlosion",
+      "counter_name": "Diancie",
+      "counter_weight": 2.6815000000000007,
+      "battles_completed": 20,
+      "win_rate": 0.05,
+      "evaluation_time": 0.06569600105285645
+    },
+    {
+      "pokemon_name": "Hisuian Typhlosion",
+      "counter_name": "Giratina (Altered Forme)",
+      "counter_weight": 2.5609360995413337,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.0743551254272461
+    },
+    {
+      "pokemon_name": "Sinistcha",
+      "counter_name": "Bombirdier",
+      "counter_weight": 2.6723333333333334,
+      "battles_completed": 20,
+      "win_rate": 0.6,
+      "evaluation_time": 0.07850766181945801
+    },
+    {
+      "pokemon_name": "Sinistcha",
+      "counter_name": "Galarian Moltres",
+      "counter_weight": 2.613166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.6,
+      "evaluation_time": 0.0558168888092041
+    },
+    {
+      "pokemon_name": "Dialga (Origin Forme)",
+      "counter_name": "Scrafty",
+      "counter_weight": 2.5348333333333333,
+      "battles_completed": 20,
+      "win_rate": 0.15,
+      "evaluation_time": 0.2067251205444336
+    },
+    {
+      "pokemon_name": "Dialga (Origin Forme)",
+      "counter_name": "Scraggy",
+      "counter_weight": 2.5115,
+      "battles_completed": 20,
+      "win_rate": 0.25,
+      "evaluation_time": 0.7239940166473389
+    },
+    {
+      "pokemon_name": "Slowbro",
+      "counter_name": "Magnezone",
+      "counter_weight": 2.5956666666666672,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.027612924575805664
+    },
+    {
+      "pokemon_name": "Slowbro",
+      "counter_name": "Magneton",
+      "counter_weight": 2.5840000000000005,
+      "battles_completed": 20,
+      "win_rate": 0.6,
+      "evaluation_time": 0.08970808982849121
+    },
+    {
+      "pokemon_name": "Blastoise",
+      "counter_name": "Decidueye",
+      "counter_weight": 2.619833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.55,
+      "evaluation_time": 0.23218607902526855
+    },
+    {
+      "pokemon_name": "Blastoise",
+      "counter_name": "Rotom",
+      "counter_weight": 2.5188333333333337,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.14878606796264648
+    },
+    {
+      "pokemon_name": "Golurk",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.493166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.7,
+      "evaluation_time": 0.1249539852142334
+    },
+    {
+      "pokemon_name": "Golurk",
+      "counter_name": "Hisuian Zoroark",
+      "counter_weight": 2.3615000000000004,
+      "battles_completed": 20,
+      "win_rate": 0.65,
+      "evaluation_time": 0.07966399192810059
+    },
+    {
+      "pokemon_name": "Zekrom",
+      "counter_name": "Alolan Ninetales",
+      "counter_weight": 2.360666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.4,
+      "evaluation_time": 0.08251285552978516
+    },
+    {
+      "pokemon_name": "Zekrom",
+      "counter_name": "Chien-Pao",
+      "counter_weight": 2.2965,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.1229100227355957
+    },
+    {
+      "pokemon_name": "Hydreigon",
+      "counter_name": "Zacian (Crowned Sword)",
+      "counter_weight": 3.288166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.35,
+      "evaluation_time": 0.11281585693359375
+    },
+    {
+      "pokemon_name": "Hydreigon",
+      "counter_name": "Alcremie",
+      "counter_weight": 3.1790000000000007,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.3000762462615967
+    },
+    {
+      "pokemon_name": "Morgrem",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.853166666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.20198774337768555
+    },
+    {
+      "pokemon_name": "Morgrem",
+      "counter_name": "Pecharunt",
+      "counter_weight": 2.7126027662080006,
+      "battles_completed": 20,
+      "win_rate": 0.5,
+      "evaluation_time": 0.16221904754638672
+    },
+    {
+      "pokemon_name": "Seadra",
+      "counter_name": "Wo-Chien",
+      "counter_weight": 2.4755000000000003,
+      "battles_completed": 20,
+      "win_rate": 0.3,
+      "evaluation_time": 0.2796950340270996
+    },
+    {
+      "pokemon_name": "Seadra",
+      "counter_name": "Meowscarada",
+      "counter_weight": 2.444833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.3404669761657715
+    },
+    {
+      "pokemon_name": "Giratina (Origin Forme)",
+      "counter_name": "Kommo-o",
+      "counter_weight": 2.3815000000000004,
+      "battles_completed": 20,
+      "win_rate": 0.05,
+      "evaluation_time": 0.06950116157531738
+    },
+    {
+      "pokemon_name": "Giratina (Origin Forme)",
+      "counter_name": "Zweilous",
+      "counter_weight": 2.3405000000000005,
+      "battles_completed": 20,
+      "win_rate": 0.35,
+      "evaluation_time": 0.07290887832641602
+    },
+    {
+      "pokemon_name": "Cinderace",
+      "counter_name": "Diancie",
+      "counter_weight": 2.6815000000000007,
+      "battles_completed": 20,
+      "win_rate": 0.15,
+      "evaluation_time": 0.0636448860168457
+    },
+    {
+      "pokemon_name": "Cinderace",
+      "counter_name": "Basculegion (Male)",
+      "counter_weight": 2.339833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.8,
+      "evaluation_time": 0.1517801284790039
+    },
+    {
+      "pokemon_name": "Glimmet",
+      "counter_name": "Ting-Lu",
+      "counter_weight": 3.3446027662080002,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.08319997787475586
+    },
+    {
+      "pokemon_name": "Glimmet",
+      "counter_name": "Krookodile",
+      "counter_weight": 3.335,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.06333208084106445
+    },
+    {
+      "pokemon_name": "Gengar",
+      "counter_name": "Sableye",
+      "counter_weight": 2.414833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.5,
+      "evaluation_time": 0.06998014450073242
+    },
+    {
+      "pokemon_name": "Gengar",
+      "counter_name": "Hisuian Zoroark",
+      "counter_weight": 2.3615000000000004,
+      "battles_completed": 20,
+      "win_rate": 0.35,
+      "evaluation_time": 0.059470176696777344
+    },
+    {
+      "pokemon_name": "Darkrai",
+      "counter_name": "Scrafty",
+      "counter_weight": 2.8848333333333334,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.15253782272338867
+    },
+    {
+      "pokemon_name": "Darkrai",
+      "counter_name": "Scraggy",
+      "counter_weight": 2.8615,
+      "battles_completed": 20,
+      "win_rate": 0.15,
+      "evaluation_time": 0.3018341064453125
+    },
+    {
+      "pokemon_name": "Ogerpon (Cornerstone Mask)",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.17017316818237305
+    },
+    {
+      "pokemon_name": "Ogerpon (Cornerstone Mask)",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.853166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.3,
+      "evaluation_time": 0.07903599739074707
+    },
+    {
+      "pokemon_name": "Dudunsparce",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.6926666666666668,
+      "battles_completed": 20,
+      "win_rate": 0.4,
+      "evaluation_time": 0.13698387145996094
+    },
+    {
+      "pokemon_name": "Dudunsparce",
+      "counter_name": "Lucario",
+      "counter_weight": 2.566,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.0816802978515625
+    },
+    {
+      "pokemon_name": "Pecharunt",
+      "counter_name": "Malamar",
+      "counter_weight": 2.225833333333334,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.09928202629089355
+    },
+    {
+      "pokemon_name": "Pecharunt",
+      "counter_name": "Scrafty",
+      "counter_weight": 2.1583333333333337,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.1253957748413086
+    },
+    {
+      "pokemon_name": "Oricorio (Pom-Pom Style)",
+      "counter_name": "Diancie",
+      "counter_weight": 2.7326027662080006,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.07771682739257812
+    },
+    {
+      "pokemon_name": "Oricorio (Pom-Pom Style)",
+      "counter_name": "Chien-Pao",
+      "counter_weight": 2.2965,
+      "battles_completed": 20,
+      "win_rate": 0.2,
+      "evaluation_time": 0.13597488403320312
+    },
+    {
+      "pokemon_name": "Munkidori",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.493166666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.11614680290222168
+    },
+    {
+      "pokemon_name": "Munkidori",
+      "counter_name": "Pecharunt",
+      "counter_weight": 2.3651027662080004,
+      "battles_completed": 20,
+      "win_rate": 0.35,
+      "evaluation_time": 0.09313631057739258
+    },
+    {
+      "pokemon_name": "Hisuian Avalugg",
+      "counter_name": "Tinkaton",
+      "counter_weight": 4.574833333333333,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.32170796394348145
+    },
+    {
+      "pokemon_name": "Hisuian Avalugg",
+      "counter_name": "Gholdengo",
+      "counter_weight": 4.377166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.7,
+      "evaluation_time": 0.08869194984436035
+    },
+    {
+      "pokemon_name": "Mew",
+      "counter_name": "Giratina (Altered Forme)",
+      "counter_weight": 2.509833333333334,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.061698198318481445
+    },
+    {
+      "pokemon_name": "Mew",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.493166666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.06138324737548828
+    },
+    {
+      "pokemon_name": "Tentacruel",
+      "counter_name": "Magnezone",
+      "counter_weight": 2.6456666666666675,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.05835413932800293
+    },
+    {
+      "pokemon_name": "Tentacruel",
+      "counter_name": "Magneton",
+      "counter_weight": 2.634000000000001,
+      "battles_completed": 20,
+      "win_rate": 0.45,
+      "evaluation_time": 0.13474273681640625
+    },
+    {
+      "pokemon_name": "Clodsire",
+      "counter_name": "Kyogre",
+      "counter_weight": 2.519269432874667,
+      "battles_completed": 20,
+      "win_rate": 0.15,
+      "evaluation_time": 0.15540480613708496
+    },
+    {
+      "pokemon_name": "Clodsire",
+      "counter_name": "Lunala",
+      "counter_weight": 2.2588333333333335,
+      "battles_completed": 20,
+      "win_rate": 0.05,
+      "evaluation_time": 0.2783980369567871
+    },
+    {
+      "pokemon_name": "Latios",
+      "counter_name": "Zweilous",
+      "counter_weight": 2.3405000000000005,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.061515092849731445
+    },
+    {
+      "pokemon_name": "Latios",
+      "counter_name": "Chien-Pao",
+      "counter_weight": 2.2965,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.11219191551208496
+    },
+    {
+      "pokemon_name": "Uxie",
+      "counter_name": "Giratina (Altered Forme)",
+      "counter_weight": 2.5609360995413337,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.19154095649719238
+    },
+    {
+      "pokemon_name": "Uxie",
+      "counter_name": "Giratina (Origin Forme)",
+      "counter_weight": 2.5109360995413335,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.17376089096069336
+    },
+    {
+      "pokemon_name": "Dondozo",
+      "counter_name": "Meowscarada",
+      "counter_weight": 2.419833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.24771618843078613
+    },
+    {
+      "pokemon_name": "Dondozo",
+      "counter_name": "Zapdos",
+      "counter_weight": 2.353166666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.1504511833190918
+    },
+    {
+      "pokemon_name": "Paldean Tauros (Fighting/Water Form)",
+      "counter_name": "Skarmory",
+      "counter_weight": 2.644,
+      "battles_completed": 20,
+      "win_rate": 0.05,
+      "evaluation_time": 0.21869587898254395
+    },
+    {
+      "pokemon_name": "Paldean Tauros (Fighting/Water Form)",
+      "counter_name": "Decidueye",
+      "counter_weight": 2.619833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.05,
+      "evaluation_time": 0.10570478439331055
+    },
+    {
+      "pokemon_name": "Indeedee (Female)",
+      "counter_name": "Malamar",
+      "counter_weight": 2.294833333333334,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.09235501289367676
+    },
+    {
+      "pokemon_name": "Indeedee (Female)",
+      "counter_name": "Wo-Chien",
+      "counter_weight": 2.2895000000000003,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.16880512237548828
+    },
+    {
+      "pokemon_name": "Umbreon",
+      "counter_name": "Scrafty",
+      "counter_weight": 2.8848333333333334,
+      "battles_completed": 20,
+      "win_rate": 0.35,
+      "evaluation_time": 0.1887049674987793
+    },
+    {
+      "pokemon_name": "Umbreon",
+      "counter_name": "Scraggy",
+      "counter_weight": 2.8615,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.379241943359375
+    },
+    {
+      "pokemon_name": "Dunsparce",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.24988579750061035
+    },
+    {
+      "pokemon_name": "Dunsparce",
+      "counter_name": "Hawlucha",
+      "counter_weight": 2.5368333333333335,
+      "battles_completed": 20,
+      "win_rate": 0.65,
+      "evaluation_time": 0.22777605056762695
+    },
+    {
+      "pokemon_name": "Mudbray",
+      "counter_name": "Decidueye",
+      "counter_weight": 2.619833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.25,
+      "evaluation_time": 0.18370318412780762
+    },
+    {
+      "pokemon_name": "Mudbray",
+      "counter_name": "Sinistcha",
+      "counter_weight": 2.4551666666666674,
+      "battles_completed": 20,
+      "win_rate": 0.3,
+      "evaluation_time": 0.12735605239868164
+    },
+    {
+      "pokemon_name": "Palafin",
+      "counter_name": "Magnezone",
+      "counter_weight": 2.4706666666666677,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.03727102279663086
+    },
+    {
+      "pokemon_name": "Palafin",
+      "counter_name": "Magneton",
+      "counter_weight": 2.459000000000001,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.12663817405700684
+    },
+    {
+      "pokemon_name": "Lycanroc (Dusk Form)",
+      "counter_name": "Tinkaton",
+      "counter_weight": 2.985833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.2646927833557129
+    },
+    {
+      "pokemon_name": "Lycanroc (Dusk Form)",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.853166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.08807015419006348
+    },
+    {
+      "pokemon_name": "Delphox",
+      "counter_name": "Diancie",
+      "counter_weight": 2.7326027662080006,
+      "battles_completed": 20,
+      "win_rate": 0.25,
+      "evaluation_time": 0.08716082572937012
+    },
+    {
+      "pokemon_name": "Delphox",
+      "counter_name": "Giratina (Altered Forme)",
+      "counter_weight": 2.5609360995413337,
+      "battles_completed": 20,
+      "win_rate": 0.85,
+      "evaluation_time": 0.07938790321350098
+    },
+    {
+      "pokemon_name": "Flygon",
+      "counter_name": "Alolan Ninetales",
+      "counter_weight": 3.624666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.5,
+      "evaluation_time": 0.1142582893371582
+    },
+    {
+      "pokemon_name": "Flygon",
+      "counter_name": "Articuno",
+      "counter_weight": 3.562166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.35,
+      "evaluation_time": 0.11546993255615234
+    },
+    {
+      "pokemon_name": "Shaymin (Sky Forme)",
+      "counter_name": "Chien-Pao",
+      "counter_weight": 3.9105000000000008,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.9927921295166016
+    },
+    {
+      "pokemon_name": "Shaymin (Sky Forme)",
+      "counter_name": "Froslass",
+      "counter_weight": 3.8705000000000007,
+      "battles_completed": 20,
+      "win_rate": 0.35,
+      "evaluation_time": 0.1499950885772705
+    },
+    {
+      "pokemon_name": "Reshiram",
+      "counter_name": "Diancie",
+      "counter_weight": 2.5065000000000004,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.13291716575622559
+    },
+    {
+      "pokemon_name": "Reshiram",
+      "counter_name": "Archaludon",
+      "counter_weight": 2.3955000000000006,
+      "battles_completed": 20,
+      "win_rate": 0.55,
+      "evaluation_time": 0.22135710716247559
+    },
+    {
+      "pokemon_name": "Rhyhorn",
+      "counter_name": "Decidueye",
+      "counter_weight": 4.063833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.0759727954864502
+    },
+    {
+      "pokemon_name": "Rhyhorn",
+      "counter_name": "Hisuian Electrode",
+      "counter_weight": 3.998151466666667,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.07053804397583008
+    },
+    {
+      "pokemon_name": "Arceus",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.5,
+      "evaluation_time": 0.14861106872558594
+    },
+    {
+      "pokemon_name": "Arceus",
+      "counter_name": "Lucario",
+      "counter_weight": 2.391,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.09359169006347656
+    },
+    {
+      "pokemon_name": "Dewott",
+      "counter_name": "Magnezone",
+      "counter_weight": 2.6456666666666675,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.038137197494506836
+    },
+    {
+      "pokemon_name": "Dewott",
+      "counter_name": "Magneton",
+      "counter_weight": 2.634000000000001,
+      "battles_completed": 20,
+      "win_rate": 0.75,
+      "evaluation_time": 0.09987092018127441
+    },
+    {
+      "pokemon_name": "Sceptile",
+      "counter_name": "Hisuian Typhlosion",
+      "counter_weight": 2.8205000000000005,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.15671610832214355
+    },
+    {
+      "pokemon_name": "Sceptile",
+      "counter_name": "Skeledirge",
+      "counter_weight": 2.719833333333334,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.10275912284851074
+    },
+    {
+      "pokemon_name": "Arceus",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.4,
+      "evaluation_time": 0.15171098709106445
+    },
+    {
+      "pokemon_name": "Arceus",
+      "counter_name": "Lucario",
+      "counter_weight": 2.391,
+      "battles_completed": 20,
+      "win_rate": 0.1,
+      "evaluation_time": 0.08209681510925293
+    },
+    {
+      "pokemon_name": "Sandaconda",
+      "counter_name": "Empoleon",
+      "counter_weight": 2.4698333333333338,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.06122183799743652
+    },
+    {
+      "pokemon_name": "Sandaconda",
+      "counter_name": "Decidueye",
+      "counter_weight": 2.444833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.12619638442993164
+    },
+    {
+      "pokemon_name": "Flamigo",
+      "counter_name": "Magnezone",
+      "counter_weight": 2.5581666666666676,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.049665212631225586
+    },
+    {
+      "pokemon_name": "Flamigo",
+      "counter_name": "Magneton",
+      "counter_weight": 2.546500000000001,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.12097311019897461
+    },
+    {
+      "pokemon_name": "Grimmsnarl",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.853166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.45,
+      "evaluation_time": 0.4143707752227783
+    },
+    {
+      "pokemon_name": "Grimmsnarl",
+      "counter_name": "Bisharp",
+      "counter_weight": 2.7431666666666668,
+      "battles_completed": 20,
+      "win_rate": 0.55,
+      "evaluation_time": 0.14489483833312988
+    },
+    {
+      "pokemon_name": "Alolan Dugtrio",
+      "counter_name": "Scrafty",
+      "counter_weight": 2.8848333333333334,
+      "battles_completed": 20,
+      "win_rate": 0.75,
+      "evaluation_time": 0.10944509506225586
+    },
+    {
+      "pokemon_name": "Alolan Dugtrio",
+      "counter_name": "Scraggy",
+      "counter_weight": 2.8615,
+      "battles_completed": 20,
+      "win_rate": 0.15,
+      "evaluation_time": 0.6505429744720459
+    },
+    {
+      "pokemon_name": "Articuno",
+      "counter_name": "Diancie",
+      "counter_weight": 4.700499999999999,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.08637499809265137
+    },
+    {
+      "pokemon_name": "Articuno",
+      "counter_name": "Rhyperior",
+      "counter_weight": 3.8396666666666674,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.13246512413024902
+    },
+    {
+      "pokemon_name": "Dartrix",
+      "counter_name": "Froslass",
+      "counter_weight": 3.8705000000000007,
+      "battles_completed": 20,
+      "win_rate": 0.4,
+      "evaluation_time": 0.15092778205871582
+    },
+    {
+      "pokemon_name": "Dartrix",
+      "counter_name": "Alolan Sandslash",
+      "counter_weight": 3.6655000000000006,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.42422008514404297
+    },
+    {
+      "pokemon_name": "Magmortar",
+      "counter_name": "Diancie",
+      "counter_weight": 2.6815000000000007,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.06948280334472656
+    },
+    {
+      "pokemon_name": "Magmortar",
+      "counter_name": "Greninja",
+      "counter_weight": 2.544833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.45,
+      "evaluation_time": 0.07278895378112793
+    },
+    {
+      "pokemon_name": "Politoed",
+      "counter_name": "Magnezone",
+      "counter_weight": 2.6456666666666675,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.04051709175109863
+    },
+    {
+      "pokemon_name": "Politoed",
+      "counter_name": "Magneton",
+      "counter_weight": 2.634000000000001,
+      "battles_completed": 20,
+      "win_rate": 0.7,
+      "evaluation_time": 0.13193392753601074
+    },
+    {
+      "pokemon_name": "Wattrel",
+      "counter_name": "Diancie",
+      "counter_weight": 2.7326027662080006,
+      "battles_completed": 20,
+      "win_rate": 0.1,
+      "evaluation_time": 0.07471728324890137
+    },
+    {
+      "pokemon_name": "Wattrel",
+      "counter_name": "Rhyperior",
+      "counter_weight": 2.446769432874667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.07608985900878906
+    },
+    {
+      "pokemon_name": "Serperior",
+      "counter_name": "Skarmory",
+      "counter_weight": 2.644,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.33203792572021484
+    },
+    {
+      "pokemon_name": "Serperior",
+      "counter_name": "Pecharunt",
+      "counter_weight": 2.5740000000000003,
+      "battles_completed": 20,
+      "win_rate": 0.1,
+      "evaluation_time": 0.16097307205200195
+    },
+    {
+      "pokemon_name": "Necrozma Dawn Wings",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.493166666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.3646059036254883
+    },
+    {
+      "pokemon_name": "Necrozma Dawn Wings",
+      "counter_name": "Sableye",
+      "counter_weight": 2.414833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.25,
+      "evaluation_time": 0.514333963394165
+    },
+    {
+      "pokemon_name": "Kingdra",
+      "counter_name": "Kommo-o",
+      "counter_weight": 2.5565,
+      "battles_completed": 20,
+      "win_rate": 0.6,
+      "evaluation_time": 0.1105659008026123
+    },
+    {
+      "pokemon_name": "Kingdra",
+      "counter_name": "Cyclizar",
+      "counter_weight": 2.4040000000000004,
+      "battles_completed": 20,
+      "win_rate": 0.5,
+      "evaluation_time": 0.09534001350402832
+    },
+    {
+      "pokemon_name": "Greninja",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.6926666666666668,
+      "battles_completed": 20,
+      "win_rate": 0.8,
+      "evaluation_time": 0.1097710132598877
+    },
+    {
+      "pokemon_name": "Greninja",
+      "counter_name": "Okidogi",
+      "counter_weight": 2.596,
+      "battles_completed": 20,
+      "win_rate": 0.8,
+      "evaluation_time": 0.0884401798248291
+    },
+    {
+      "pokemon_name": "Muk",
+      "counter_name": "Lunala",
+      "counter_weight": 2.4588333333333336,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.07061600685119629
+    },
+    {
+      "pokemon_name": "Muk",
+      "counter_name": "Hoopa",
+      "counter_weight": 2.4205000000000005,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.08126282691955566
+    },
+    {
+      "pokemon_name": "Incineroar",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.45,
+      "evaluation_time": 0.08762001991271973
+    },
+    {
+      "pokemon_name": "Incineroar",
+      "counter_name": "Diancie",
+      "counter_weight": 2.8565000000000005,
+      "battles_completed": 20,
+      "win_rate": 0.05,
+      "evaluation_time": 0.07522988319396973
+    },
+    {
+      "pokemon_name": "Charizard",
+      "counter_name": "Diancie",
+      "counter_weight": 4.700499999999999,
+      "battles_completed": 20,
+      "win_rate": 0.15,
+      "evaluation_time": 0.09005069732666016
+    },
+    {
+      "pokemon_name": "Charizard",
+      "counter_name": "Drednaw",
+      "counter_weight": 3.843833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.55,
+      "evaluation_time": 0.06876611709594727
+    },
+    {
+      "pokemon_name": "Veluza",
+      "counter_name": "Wo-Chien",
+      "counter_weight": 2.6505000000000005,
+      "battles_completed": 20,
+      "win_rate": 0.05,
+      "evaluation_time": 0.25751495361328125
+    },
+    {
+      "pokemon_name": "Veluza",
+      "counter_name": "Meowscarada",
+      "counter_weight": 2.619833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.2,
+      "evaluation_time": 0.3226790428161621
+    },
+    {
+      "pokemon_name": "Chandelure",
+      "counter_name": "Diancie",
+      "counter_weight": 2.6815000000000007,
+      "battles_completed": 20,
+      "win_rate": 0.25,
+      "evaluation_time": 0.08882689476013184
+    },
+    {
+      "pokemon_name": "Chandelure",
+      "counter_name": "Sableye",
+      "counter_weight": 2.414833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.1,
+      "evaluation_time": 0.11930584907531738
+    },
+    {
+      "pokemon_name": "Donphan",
+      "counter_name": "Decidueye",
+      "counter_weight": 2.444833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.15,
+      "evaluation_time": 0.2772700786590576
+    },
+    {
+      "pokemon_name": "Donphan",
+      "counter_name": "Shaymin (Sky Forme)",
+      "counter_weight": 2.4174848,
+      "battles_completed": 20,
+      "win_rate": 0.75,
+      "evaluation_time": 0.1987919807434082
+    },
+    {
+      "pokemon_name": "Quilladin",
+      "counter_name": "Bombirdier",
+      "counter_weight": 2.8473333333333337,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.21448516845703125
+    },
+    {
+      "pokemon_name": "Quilladin",
+      "counter_name": "Lugia",
+      "counter_weight": 2.792333333333333,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.10588908195495605
+    },
+    {
+      "pokemon_name": "Magby",
+      "counter_name": "Diancie",
+      "counter_weight": 2.5065000000000004,
+      "battles_completed": 20,
+      "win_rate": 0.5,
+      "evaluation_time": 0.064849853515625
+    },
+    {
+      "pokemon_name": "Magby",
+      "counter_name": "Greninja",
+      "counter_weight": 2.369833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.6,
+      "evaluation_time": 0.11991095542907715
+    },
+    {
+      "pokemon_name": "Leavanny",
+      "counter_name": "Hisuian Typhlosion",
+      "counter_weight": 4.6395,
+      "battles_completed": 20,
+      "win_rate": 0.65,
+      "evaluation_time": 0.1008601188659668
+    },
+    {
+      "pokemon_name": "Leavanny",
+      "counter_name": "Skarmory",
+      "counter_weight": 4.423,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.34681224822998047
+    },
+    {
+      "pokemon_name": "Drifloon",
+      "counter_name": "Diancie",
+      "counter_weight": 2.6815000000000007,
+      "battles_completed": 20,
+      "win_rate": 0.15,
+      "evaluation_time": 0.07892489433288574
+    },
+    {
+      "pokemon_name": "Drifloon",
+      "counter_name": "Rotom",
+      "counter_weight": 2.5188333333333337,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.153472900390625
+    },
+    {
+      "pokemon_name": "Qwilfish",
+      "counter_name": "Magnezone",
+      "counter_weight": 2.4706666666666677,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.03227496147155762
+    },
+    {
+      "pokemon_name": "Qwilfish",
+      "counter_name": "Magneton",
+      "counter_weight": 2.459000000000001,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.06245088577270508
+    },
+    {
+      "pokemon_name": "Mareanie",
+      "counter_name": "Magnezone",
+      "counter_weight": 2.4706666666666677,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.0366668701171875
+    },
+    {
+      "pokemon_name": "Mareanie",
+      "counter_name": "Magneton",
+      "counter_weight": 2.459000000000001,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.1667649745941162
+    },
+    {
+      "pokemon_name": "Heatran",
+      "counter_name": "Groudon",
+      "counter_weight": 3.2401666666666675,
+      "battles_completed": 20,
+      "win_rate": 0.5,
+      "evaluation_time": 0.06035208702087402
+    },
+    {
+      "pokemon_name": "Heatran",
+      "counter_name": "Krookodile",
+      "counter_weight": 3.16,
+      "battles_completed": 20,
+      "win_rate": 0.65,
+      "evaluation_time": 0.08695125579833984
+    },
+    {
+      "pokemon_name": "Mankey",
+      "counter_name": "Hawlucha",
+      "counter_weight": 2.6748333333333334,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.08617496490478516
+    },
+    {
+      "pokemon_name": "Mankey",
+      "counter_name": "Bombirdier",
+      "counter_weight": 2.6723333333333334,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.10943198204040527
+    },
+    {
+      "pokemon_name": "Alolan Grimer",
+      "counter_name": "Golurk",
+      "counter_weight": 2.2110000000000003,
+      "battles_completed": 20,
+      "win_rate": 0.8,
+      "evaluation_time": 0.04391813278198242
+    },
+    {
+      "pokemon_name": "Alolan Grimer",
+      "counter_name": "Palossand",
+      "counter_weight": 2.0855,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.06249499320983887
+    },
+    {
+      "pokemon_name": "Toxapex",
+      "counter_name": "Lunala",
+      "counter_weight": 2.5088333333333335,
+      "battles_completed": 20,
+      "win_rate": 0.7,
+      "evaluation_time": 0.48693299293518066
+    },
+    {
+      "pokemon_name": "Toxapex",
+      "counter_name": "Rotom",
+      "counter_weight": 2.4688333333333334,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.2067859172821045
+    },
+    {
+      "pokemon_name": "Thwackey",
+      "counter_name": "Hisuian Typhlosion",
+      "counter_weight": 2.8205000000000005,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.05675792694091797
+    },
+    {
+      "pokemon_name": "Thwackey",
+      "counter_name": "Skeledirge",
+      "counter_weight": 2.719833333333334,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.05728483200073242
+    },
+    {
+      "pokemon_name": "Cetitan",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.85,
+      "evaluation_time": 0.16246604919433594
+    },
+    {
+      "pokemon_name": "Cetitan",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.853166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.35,
+      "evaluation_time": 0.13567709922790527
+    },
+    {
+      "pokemon_name": "Koraidon",
+      "counter_name": "Alcremie",
+      "counter_weight": 3.879000000000001,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.23564624786376953
+    },
+    {
+      "pokemon_name": "Koraidon",
+      "counter_name": "Flutter Mane",
+      "counter_weight": 3.3915000000000006,
+      "battles_completed": 20,
+      "win_rate": 0.45,
+      "evaluation_time": 0.21474099159240723
+    },
+    {
+      "pokemon_name": "Keldeo",
+      "counter_name": "Skarmory",
+      "counter_weight": 2.695102766208,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.21163010597229004
+    },
+    {
+      "pokemon_name": "Keldeo",
+      "counter_name": "Magnezone",
+      "counter_weight": 2.6456666666666675,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.03961610794067383
+    },
+    {
+      "pokemon_name": "Beartic",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.65,
+      "evaluation_time": 0.10568618774414062
+    },
+    {
+      "pokemon_name": "Beartic",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.853166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.25,
+      "evaluation_time": 0.09742379188537598
+    },
+    {
+      "pokemon_name": "Raging Bolt",
+      "counter_name": "Kommo-o",
+      "counter_weight": 2.5565,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.10777521133422852
+    },
+    {
+      "pokemon_name": "Raging Bolt",
+      "counter_name": "Giratina (Altered Forme)",
+      "counter_weight": 2.508833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.13031315803527832
+    },
+    {
+      "pokemon_name": "Arceus",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.45,
+      "evaluation_time": 0.15921616554260254
+    },
+    {
+      "pokemon_name": "Arceus",
+      "counter_name": "Lucario",
+      "counter_weight": 2.391,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.0973808765411377
+    },
+    {
+      "pokemon_name": "Brambleghast",
+      "counter_name": "Bombirdier",
+      "counter_weight": 2.6723333333333334,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.10475015640258789
+    },
+    {
+      "pokemon_name": "Brambleghast",
+      "counter_name": "Galarian Moltres",
+      "counter_weight": 2.613166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.4,
+      "evaluation_time": 0.06357908248901367
+    },
+    {
+      "pokemon_name": "Chewtle",
+      "counter_name": "Decidueye",
+      "counter_weight": 2.619833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.4,
+      "evaluation_time": 0.19901490211486816
+    },
+    {
+      "pokemon_name": "Chewtle",
+      "counter_name": "Rotom",
+      "counter_weight": 2.5188333333333337,
+      "battles_completed": 20,
+      "win_rate": 0.6,
+      "evaluation_time": 0.14036798477172852
+    },
+    {
+      "pokemon_name": "Trapinch",
+      "counter_name": "Brambleghast",
+      "counter_weight": 2.5755000000000003,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.08478283882141113
+    },
+    {
+      "pokemon_name": "Trapinch",
+      "counter_name": "Decidueye",
+      "counter_weight": 2.569833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.45,
+      "evaluation_time": 0.19515514373779297
+    },
+    {
+      "pokemon_name": "Chinchou",
+      "counter_name": "Hisuian Electrode",
+      "counter_weight": 2.550666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.65,
+      "evaluation_time": 0.09426283836364746
+    },
+    {
+      "pokemon_name": "Chinchou",
+      "counter_name": "Wo-Chien",
+      "counter_weight": 2.4755000000000003,
+      "battles_completed": 20,
+      "win_rate": 0.3,
+      "evaluation_time": 0.3376297950744629
+    },
+    {
+      "pokemon_name": "Wartortle",
+      "counter_name": "Magnezone",
+      "counter_weight": 2.4706666666666677,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.0447540283203125
+    },
+    {
+      "pokemon_name": "Wartortle",
+      "counter_name": "Magneton",
+      "counter_weight": 2.459000000000001,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.11914181709289551
+    },
+    {
+      "pokemon_name": "Haunter",
+      "counter_name": "Malamar",
+      "counter_weight": 2.575833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.75,
+      "evaluation_time": 0.09440898895263672
+    },
+    {
+      "pokemon_name": "Haunter",
+      "counter_name": "Jirachi",
+      "counter_weight": 2.458,
+      "battles_completed": 20,
+      "win_rate": 0.85,
+      "evaluation_time": 0.12223100662231445
+    },
+    {
+      "pokemon_name": "Meditite",
+      "counter_name": "Bombirdier",
+      "counter_weight": 2.8473333333333337,
+      "battles_completed": 20,
+      "win_rate": 0.75,
+      "evaluation_time": 0.11635017395019531
+    },
+    {
+      "pokemon_name": "Meditite",
+      "counter_name": "Galarian Moltres",
+      "counter_weight": 2.839269432874667,
+      "battles_completed": 20,
+      "win_rate": 0.6,
+      "evaluation_time": 0.09413790702819824
+    },
+    {
+      "pokemon_name": "Zapdos",
+      "counter_name": "Diancie",
+      "counter_weight": 2.5065000000000004,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.0668940544128418
+    },
+    {
+      "pokemon_name": "Zapdos",
+      "counter_name": "Chien-Pao",
+      "counter_weight": 2.4715000000000007,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.12292313575744629
+    },
+    {
+      "pokemon_name": "Gothita",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.493166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.14278602600097656
+    },
+    {
+      "pokemon_name": "Gothita",
+      "counter_name": "Sableye",
+      "counter_weight": 2.414833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.17409300804138184
+    },
+    {
+      "pokemon_name": "Goodra",
+      "counter_name": "Giratina (Altered Forme)",
+      "counter_weight": 2.508833333333334,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.07974505424499512
+    },
+    {
+      "pokemon_name": "Goodra",
+      "counter_name": "Giratina (Origin Forme)",
+      "counter_weight": 2.4588333333333336,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.07256817817687988
+    },
+    {
+      "pokemon_name": "Regirock",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.07161092758178711
+    },
+    {
+      "pokemon_name": "Regirock",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.853166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.08902597427368164
+    },
+    {
+      "pokemon_name": "Iron Boulder",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.7656666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.3,
+      "evaluation_time": 0.11652135848999023
+    },
+    {
+      "pokemon_name": "Iron Boulder",
+      "counter_name": "Tinkaton",
+      "counter_weight": 2.7233333333333336,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.2987251281738281
+    },
+    {
+      "pokemon_name": "Lanturn",
+      "counter_name": "Groudon",
+      "counter_weight": 2.307166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.75,
+      "evaluation_time": 0.09355401992797852
+    },
+    {
+      "pokemon_name": "Lanturn",
+      "counter_name": "Iron Treads",
+      "counter_weight": 2.2755000000000005,
+      "battles_completed": 20,
+      "win_rate": 0.55,
+      "evaluation_time": 0.09174609184265137
+    },
+    {
+      "pokemon_name": "Dragapult",
+      "counter_name": "Zweilous",
+      "counter_weight": 2.5155000000000003,
+      "battles_completed": 20,
+      "win_rate": 0.65,
+      "evaluation_time": 0.058238983154296875
+    },
+    {
+      "pokemon_name": "Dragapult",
+      "counter_name": "Chien-Pao",
+      "counter_weight": 2.4715000000000007,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.1702439785003662
+    },
+    {
+      "pokemon_name": "Lurantis",
+      "counter_name": "Hisuian Typhlosion",
+      "counter_weight": 2.7705,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.07354617118835449
+    },
+    {
+      "pokemon_name": "Lurantis",
+      "counter_name": "Skeledirge",
+      "counter_weight": 2.619833333333334,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.0823218822479248
+    },
+    {
+      "pokemon_name": "Amoonguss",
+      "counter_name": "Hisuian Typhlosion",
+      "counter_weight": 2.7705,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.13585615158081055
+    },
+    {
+      "pokemon_name": "Amoonguss",
+      "counter_name": "Skeledirge",
+      "counter_weight": 2.669833333333334,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.08643913269042969
+    },
+    {
+      "pokemon_name": "Skeledirge",
+      "counter_name": "Diancie",
+      "counter_weight": 2.5065000000000004,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.06387209892272949
+    },
+    {
+      "pokemon_name": "Skeledirge",
+      "counter_name": "Greninja",
+      "counter_weight": 2.369833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.3,
+      "evaluation_time": 0.1311049461364746
+    },
+    {
+      "pokemon_name": "Polteageist",
+      "counter_name": "Sableye",
+      "counter_weight": 2.414833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.7864277362823486
+    },
+    {
+      "pokemon_name": "Polteageist",
+      "counter_name": "Spiritomb",
+      "counter_weight": 2.357333333333334,
+      "battles_completed": 20,
+      "win_rate": 0.7,
+      "evaluation_time": 0.19234704971313477
+    },
+    {
+      "pokemon_name": "Braviary",
+      "counter_name": "Magnezone",
+      "counter_weight": 2.6456666666666675,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.03849601745605469
+    },
+    {
+      "pokemon_name": "Braviary",
+      "counter_name": "Magneton",
+      "counter_weight": 2.634000000000001,
+      "battles_completed": 20,
+      "win_rate": 0.85,
+      "evaluation_time": 0.08943605422973633
+    },
+    {
+      "pokemon_name": "Galarian Weezing",
+      "counter_name": "Iron Treads",
+      "counter_weight": 2.5815,
+      "battles_completed": 20,
+      "win_rate": 0.8,
+      "evaluation_time": 0.09014296531677246
+    },
+    {
+      "pokemon_name": "Galarian Weezing",
+      "counter_name": "Excadrill",
+      "counter_weight": 2.4711666666666665,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.08788299560546875
+    },
+    {
+      "pokemon_name": "Urshifu (Single Strike Style)",
+      "counter_name": "Alcremie",
+      "counter_weight": 3.7040000000000006,
+      "battles_completed": 20,
+      "win_rate": 0.65,
+      "evaluation_time": 0.14568614959716797
+    },
+    {
+      "pokemon_name": "Urshifu (Single Strike Style)",
+      "counter_name": "Flutter Mane",
+      "counter_weight": 3.3915000000000006,
+      "battles_completed": 20,
+      "win_rate": 0.8,
+      "evaluation_time": 0.1260998249053955
+    },
+    {
+      "pokemon_name": "Swampert",
+      "counter_name": "Hisuian Electrode",
+      "counter_weight": 4.107166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.1,
+      "evaluation_time": 0.07058882713317871
+    },
+    {
+      "pokemon_name": "Swampert",
+      "counter_name": "Decidueye",
+      "counter_weight": 4.063833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.2,
+      "evaluation_time": 0.12315011024475098
+    },
+    {
+      "pokemon_name": "Mudsdale",
+      "counter_name": "Empoleon",
+      "counter_weight": 2.3698333333333337,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.08964204788208008
+    },
+    {
+      "pokemon_name": "Mudsdale",
+      "counter_name": "Greninja",
+      "counter_weight": 2.319833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.4,
+      "evaluation_time": 0.09460926055908203
+    },
+    {
+      "pokemon_name": "Gabite",
+      "counter_name": "Alolan Sandslash",
+      "counter_weight": 3.6655000000000006,
+      "battles_completed": 20,
+      "win_rate": 0.05,
+      "evaluation_time": 0.10777711868286133
+    },
+    {
+      "pokemon_name": "Gabite",
+      "counter_name": "Alolan Sandshrew",
+      "counter_weight": 3.6405000000000003,
+      "battles_completed": 20,
+      "win_rate": 0.05,
+      "evaluation_time": 0.12136387825012207
+    },
+    {
+      "pokemon_name": "Bramblin",
+      "counter_name": "Bombirdier",
+      "counter_weight": 2.6723333333333334,
+      "battles_completed": 20,
+      "win_rate": 0.5,
+      "evaluation_time": 0.11176395416259766
+    },
+    {
+      "pokemon_name": "Bramblin",
+      "counter_name": "Mandibuzz",
+      "counter_weight": 2.652602766208,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.5820920467376709
+    },
+    {
+      "pokemon_name": "Tsareena",
+      "counter_name": "Torkoal",
+      "counter_weight": 2.384833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.45,
+      "evaluation_time": 0.04573988914489746
+    },
+    {
+      "pokemon_name": "Tsareena",
+      "counter_name": "Fezandipiti",
+      "counter_weight": 2.3790000000000004,
+      "battles_completed": 20,
+      "win_rate": 0.85,
+      "evaluation_time": 0.13506197929382324
+    },
+    {
+      "pokemon_name": "Hippowdon",
+      "counter_name": "Meowscarada",
+      "counter_weight": 2.5948333333333338,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.1280519962310791
+    },
+    {
+      "pokemon_name": "Hippowdon",
+      "counter_name": "Greninja",
+      "counter_weight": 2.4948333333333337,
+      "battles_completed": 20,
+      "win_rate": 0.45,
+      "evaluation_time": 0.09059906005859375
+    },
+    {
+      "pokemon_name": "Chien-Pao",
+      "counter_name": "Annihilape",
+      "counter_weight": 4.683666666666666,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.1686098575592041
+    },
+    {
+      "pokemon_name": "Chien-Pao",
+      "counter_name": "Lucario",
+      "counter_weight": 4.207,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.17347502708435059
+    },
+    {
+      "pokemon_name": "Terapagos",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.15964794158935547
+    },
+    {
+      "pokemon_name": "Terapagos",
+      "counter_name": "Hawlucha",
+      "counter_weight": 2.5368333333333335,
+      "battles_completed": 20,
+      "win_rate": 0.9,
+      "evaluation_time": 0.1695559024810791
+    },
+    {
+      "pokemon_name": "Alcremie",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.853166666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.38809990882873535
+    },
+    {
+      "pokemon_name": "Alcremie",
+      "counter_name": "Pecharunt",
+      "counter_weight": 2.7126027662080006,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.10266423225402832
+    },
+    {
+      "pokemon_name": "Hisuian Samurott",
+      "counter_name": "Okidogi",
+      "counter_weight": 2.6835,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.06346893310546875
+    },
+    {
+      "pokemon_name": "Hisuian Samurott",
+      "counter_name": "Hawlucha",
+      "counter_weight": 2.6243333333333334,
+      "battles_completed": 20,
+      "win_rate": 0.6,
+      "evaluation_time": 0.08020472526550293
+    },
+    {
+      "pokemon_name": "Kleavor",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.853166666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.11330509185791016
+    },
+    {
+      "pokemon_name": "Kleavor",
+      "counter_name": "Diancie",
+      "counter_weight": 2.6815000000000007,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.09838604927062988
+    },
+    {
+      "pokemon_name": "Comfey",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.853166666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.20650196075439453
+    },
+    {
+      "pokemon_name": "Comfey",
+      "counter_name": "Bisharp",
+      "counter_weight": 2.7431666666666668,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.15232491493225098
+    },
+    {
+      "pokemon_name": "Kommo-o",
+      "counter_name": "Alcremie",
+      "counter_weight": 4.054000000000001,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.29831910133361816
+    },
+    {
+      "pokemon_name": "Kommo-o",
+      "counter_name": "Enamorus (Incarnate Forme)",
+      "counter_weight": 3.592166666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.357266902923584
+    },
+    {
+      "pokemon_name": "Bombirdier",
+      "counter_name": "Diancie",
+      "counter_weight": 2.6815000000000007,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.06794476509094238
+    },
+    {
+      "pokemon_name": "Bombirdier",
+      "counter_name": "Rotom",
+      "counter_weight": 2.5188333333333337,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.0785059928894043
+    },
+    {
+      "pokemon_name": "Misdreavus",
+      "counter_name": "Sableye",
+      "counter_weight": 2.0648333333333335,
+      "battles_completed": 20,
+      "win_rate": 0.7,
+      "evaluation_time": 0.0956270694732666
+    },
+    {
+      "pokemon_name": "Misdreavus",
+      "counter_name": "Bisharp",
+      "counter_weight": 2.0461666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.1296708583831787
+    },
+    {
+      "pokemon_name": "Espathra",
+      "counter_name": "Giratina (Altered Forme)",
+      "counter_weight": 2.509833333333334,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.09020280838012695
+    },
+    {
+      "pokemon_name": "Espathra",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.493166666666667,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.152940034866333
+    },
+    {
+      "pokemon_name": "Galarian Slowking",
+      "counter_name": "Chien-Pao",
+      "counter_weight": 2.3595,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.10075688362121582
+    },
+    {
+      "pokemon_name": "Galarian Slowking",
+      "counter_name": "Zoroark",
+      "counter_weight": 2.3495000000000004,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.07558298110961914
+    },
+    {
+      "pokemon_name": "Spiritomb",
+      "counter_name": "Flutter Mane",
+      "counter_weight": 2.2245000000000004,
+      "battles_completed": 20,
+      "win_rate": 0.4,
+      "evaluation_time": 0.05793499946594238
+    },
+    {
+      "pokemon_name": "Spiritomb",
+      "counter_name": "Mimikyu",
+      "counter_weight": 2.1348333333333334,
+      "battles_completed": 20,
+      "win_rate": 0.35,
+      "evaluation_time": 0.1071786880493164
+    },
+    {
+      "pokemon_name": "Croagunk",
+      "counter_name": "Lunala",
+      "counter_weight": 3.9679360995413337,
+      "battles_completed": 20,
+      "win_rate": 0.4,
+      "evaluation_time": 0.17070889472961426
+    },
+    {
+      "pokemon_name": "Croagunk",
+      "counter_name": "Hoopa",
+      "counter_weight": 3.8785000000000007,
+      "battles_completed": 20,
+      "win_rate": 0.45,
+      "evaluation_time": 0.11104226112365723
+    },
+    {
+      "pokemon_name": "Rhydon",
+      "counter_name": "Decidueye",
+      "counter_weight": 4.063833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.06849002838134766
+    },
+    {
+      "pokemon_name": "Rhydon",
+      "counter_name": "Primarina",
+      "counter_weight": 4.063833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.4,
+      "evaluation_time": 0.0701749324798584
+    },
+    {
+      "pokemon_name": "Gliscor",
+      "counter_name": "Abomasnow",
+      "counter_weight": 3.622833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.16940999031066895
+    },
+    {
+      "pokemon_name": "Gliscor",
+      "counter_name": "Snover",
+      "counter_weight": 3.5961666666666674,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.1391458511352539
+    },
+    {
+      "pokemon_name": "Cinccino",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.23501300811767578
+    },
+    {
+      "pokemon_name": "Cinccino",
+      "counter_name": "Scrafty",
+      "counter_weight": 2.5348333333333333,
+      "battles_completed": 20,
+      "win_rate": 0.5,
+      "evaluation_time": 0.3269031047821045
+    },
+    {
+      "pokemon_name": "Lilligant",
+      "counter_name": "Hisuian Typhlosion",
+      "counter_weight": 2.8205000000000005,
+      "battles_completed": 20,
+      "win_rate": 0.85,
+      "evaluation_time": 0.11627817153930664
+    },
+    {
+      "pokemon_name": "Lilligant",
+      "counter_name": "Skeledirge",
+      "counter_weight": 2.719833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.11844992637634277
+    },
+    {
+      "pokemon_name": "Larvesta",
+      "counter_name": "Diancie",
+      "counter_weight": 4.525499999999999,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.07462191581726074
+    },
+    {
+      "pokemon_name": "Larvesta",
+      "counter_name": "Rhyperior",
+      "counter_weight": 3.9271666666666674,
+      "battles_completed": 20,
+      "win_rate": 0.6,
+      "evaluation_time": 0.2721831798553467
+    },
+    {
+      "pokemon_name": "Abomasnow",
+      "counter_name": "Torkoal",
+      "counter_weight": 4.028833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.45,
+      "evaluation_time": 0.06567692756652832
+    },
+    {
+      "pokemon_name": "Abomasnow",
+      "counter_name": "Typhlosion",
+      "counter_weight": 4.0145,
+      "battles_completed": 20,
+      "win_rate": 0.3,
+      "evaluation_time": 0.12545013427734375
+    },
+    {
+      "pokemon_name": "Meloetta (Aria Forme)",
+      "counter_name": "Sableye",
+      "counter_weight": 2.2528333333333337,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.2282860279083252
+    },
+    {
+      "pokemon_name": "Meloetta (Aria Forme)",
+      "counter_name": "Krookodile",
+      "counter_weight": 2.2510000000000003,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.10338687896728516
+    },
+    {
+      "pokemon_name": "Flutter Mane",
+      "counter_name": "Gholdengo",
+      "counter_weight": 2.678166666666667,
+      "battles_completed": 20,
+      "win_rate": 0.4,
+      "evaluation_time": 0.10140109062194824
+    },
+    {
+      "pokemon_name": "Flutter Mane",
+      "counter_name": "Tinkaton",
+      "counter_weight": 2.6358333333333337,
+      "battles_completed": 20,
+      "win_rate": 0.0,
+      "evaluation_time": 0.2990872859954834
+    },
+    {
+      "pokemon_name": "Hisuian Zoroark",
+      "counter_name": "Malamar",
+      "counter_weight": 2.294833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.8,
+      "evaluation_time": 0.0611271858215332
+    },
+    {
+      "pokemon_name": "Hisuian Zoroark",
+      "counter_name": "Wo-Chien",
+      "counter_weight": 2.2895000000000003,
+      "battles_completed": 20,
+      "win_rate": 0.6,
+      "evaluation_time": 0.3397030830383301
+    },
+    {
+      "pokemon_name": "Arboliva",
+      "counter_name": "Annihilape",
+      "counter_weight": 2.867666666666667,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 1.132828712463379
+    },
+    {
+      "pokemon_name": "Arboliva",
+      "counter_name": "Hisuian Typhlosion",
+      "counter_weight": 2.8205000000000005,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.09829306602478027
+    },
+    {
+      "pokemon_name": "Snover",
+      "counter_name": "Hisuian Typhlosion",
+      "counter_weight": 4.6395,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.08798003196716309
+    },
+    {
+      "pokemon_name": "Snover",
+      "counter_name": "Skeledirge",
+      "counter_weight": 4.3388333333333335,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.08073592185974121
+    },
+    {
+      "pokemon_name": "Mow Rotom",
+      "counter_name": "Hisuian Typhlosion",
+      "counter_weight": 2.4705000000000004,
+      "battles_completed": 20,
+      "win_rate": 0.7,
+      "evaluation_time": 0.08736109733581543
+    },
+    {
+      "pokemon_name": "Mow Rotom",
+      "counter_name": "Skeledirge",
+      "counter_weight": 2.369833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.85,
+      "evaluation_time": 0.08839297294616699
+    },
+    {
+      "pokemon_name": "Farigiraf",
+      "counter_name": "Malamar",
+      "counter_weight": 2.294833333333334,
+      "battles_completed": 20,
+      "win_rate": 0.95,
+      "evaluation_time": 0.07276320457458496
+    },
+    {
+      "pokemon_name": "Farigiraf",
+      "counter_name": "Wo-Chien",
+      "counter_weight": 2.2895000000000003,
+      "battles_completed": 20,
+      "win_rate": 0.1,
+      "evaluation_time": 0.6771562099456787
+    },
+    {
+      "pokemon_name": "Dipplin",
+      "counter_name": "Chien-Pao",
+      "counter_weight": 3.9605000000000006,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 1.0194313526153564
+    },
+    {
+      "pokemon_name": "Dipplin",
+      "counter_name": "Weavile",
+      "counter_weight": 3.8505000000000003,
+      "battles_completed": 20,
+      "win_rate": 1.0,
+      "evaluation_time": 0.4748659133911133
+    }
+  ],
+  "failures": [
+    {
+      "pokemon": "Orthworm",
+      "error": "Invalid EV spread: total 512 > 510",
+      "time": 1.9311904907226562e-05
+    },
+    {
+      "pokemon": "Pikachu",
+      "error": "Invalid EV spread: total 1260 > 510",
+      "time": 1.4066696166992188e-05
+    }
+  ],
+  "summary_stats": {
+    "total_battles": 7920,
+    "average_win_rate": 0.5941919191919193,
+    "median_win_rate": 0.65,
+    "win_rate_std": 0.37284958590118766,
+    "average_evaluation_time": 0.15736327026829575,
+    "total_evaluation_time": 62.31585502624512,
+    "unique_pokemon": 191,
+    "unique_counters": 90,
+    "success_rate": 0.9949748743718593
+  }
+}
