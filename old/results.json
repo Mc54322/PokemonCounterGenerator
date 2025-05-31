@@ -1,0 +1,170 @@
+{
+  "scored_movesets_v1_r0.json": {
+    "mean": 3.4954954954954953,
+    "standard_deviation": 1.2552642933574336,
+    "median": 3.0,
+    "count": 777,
+    "min": 1.5,
+    "max": 8.0
+  },
+  "scored_movesets_v1_r1.json": {
+    "mean": 4.403969270166454,
+    "standard_deviation": 1.487468032521175,
+    "median": 4.0,
+    "count": 781,
+    "min": 1.5,
+    "max": 9.0
+  },
+  "scored_movesets_v1_r2.json": {
+    "mean": 4.906524466750314,
+    "standard_deviation": 1.69735460474154,
+    "median": 5.0,
+    "count": 797,
+    "min": 2.0,
+    "max": 9.0
+  },
+  "scored_movesets_v1_r3.json": {
+    "mean": 5.293450881612091,
+    "standard_deviation": 1.684857994691359,
+    "median": 5.0,
+    "count": 794,
+    "min": 1.5,
+    "max": 9.0
+  },
+  "scored_movesets_v1_r4.json": {
+    "mean": 4.700127877237851,
+    "standard_deviation": 1.7201561683607827,
+    "median": 5.0,
+    "count": 782,
+    "min": 1.5,
+    "max": 9.0
+  },
+  "scored_movesets_v1_r5.json": {
+    "mean": 4.847381864623244,
+    "standard_deviation": 1.5829624097942385,
+    "median": 5.0,
+    "count": 783,
+    "min": 2.0,
+    "max": 9.0
+  },
+  "scored_movesets_v1_r6.json": {
+    "mean": 4.882316313823163,
+    "standard_deviation": 1.4818641338841192,
+    "median": 5.0,
+    "count": 803,
+    "min": 2.0,
+    "max": 9.0
+  },
+  "scored_movesets_v2_r0.json": {
+    "mean": 5.870463078848561,
+    "standard_deviation": 1.7336211427218644,
+    "median": 6.0,
+    "count": 799,
+    "min": 2.0,
+    "max": 9.0
+  },
+  "scored_movesets_v2_r1.json": {
+    "mean": 5.540452261306533,
+    "standard_deviation": 1.7906245834836547,
+    "median": 6.0,
+    "count": 796,
+    "min": 1.5,
+    "max": 9.0
+  },
+  "scored_movesets_v2_r2.json": {
+    "mean": 5.66141235813367,
+    "standard_deviation": 1.7985120176060394,
+    "median": 6.0,
+    "count": 793,
+    "min": 1.5,
+    "max": 9.0
+  },
+  "scored_movesets_v2_r3.json": {
+    "mean": 5.489372599231754,
+    "standard_deviation": 1.7561254673700484,
+    "median": 6.0,
+    "count": 781,
+    "min": 1.5,
+    "max": 9.0
+  },
+  "scored_movesets_v2_r4.json": {
+    "mean": 5.411601513240858,
+    "standard_deviation": 1.9443758788309233,
+    "median": 6.0,
+    "count": 793,
+    "min": 2.0,
+    "max": 9.0
+  },
+  "scored_movesets_v2_r5.json": {
+    "mean": 5.161111111111111,
+    "standard_deviation": 1.6498960524623298,
+    "median": 5.0,
+    "count": 810,
+    "min": 2.0,
+    "max": 9.0
+  },
+  "scored_movesets_v2_r6.json": {
+    "mean": 5.608585858585859,
+    "standard_deviation": 1.858170060817865,
+    "median": 6.0,
+    "count": 792,
+    "min": 2.0,
+    "max": 9.0
+  },
+  "scored_movesets_v3_r0.json": {
+    "mean": 6.14367816091954,
+    "standard_deviation": 1.4180926729386527,
+    "median": 6.0,
+    "count": 522,
+    "min": 2.0,
+    "max": 9.0
+  },
+  "scored_movesets_v3_r1.json": {
+    "mean": 6.176245210727969,
+    "standard_deviation": 1.458172705934419,
+    "median": 6.0,
+    "count": 522,
+    "min": 2.0,
+    "max": 9.0
+  },
+  "scored_movesets_v3_r2.json": {
+    "mean": 6.131226053639847,
+    "standard_deviation": 1.4492443032591564,
+    "median": 6.0,
+    "count": 522,
+    "min": 2.0,
+    "max": 9.0
+  },
+  "scored_movesets_v3_r3.json": {
+    "mean": 6.181034482758621,
+    "standard_deviation": 1.4557729683810336,
+    "median": 6.0,
+    "count": 522,
+    "min": 2.0,
+    "max": 9.0
+  },
+  "scored_movesets_v3_r4.json": {
+    "mean": 6.0488505747126435,
+    "standard_deviation": 1.4527122758881001,
+    "median": 6.0,
+    "count": 522,
+    "min": 2.0,
+    "max": 9.0
+  },
+  "scored_movesets_v3_r5.json": {
+    "mean": 6.119731800766283,
+    "standard_deviation": 1.4764737017768361,
+    "median": 6.0,
+    "count": 522,
+    "min": 1.0,
+    "max": 9.0
+  },
+  "scored_movesets_v3_r6.json": {
+    "mean": 6.21360153256705,
+    "standard_deviation": 1.4253217497951491,
+    "median": 6.0,
+    "count": 522,
+    "min": 2.0,
+    "max": 9.0
+  }
+}
