@@ -1,4 +1,4 @@
-# Pokémon Competitive AI Project
+# Pokémon AI Counter Generator Project
 
 A comprehensive machine learning system for generating optimal Pokémon movesets and finding strategic counters, featuring reinforcement learning, GPT-based evaluation, and battle simulation capabilities.
 
