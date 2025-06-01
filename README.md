@@ -103,7 +103,7 @@ python ai.py --export-json
 python ai.py --rounds --load-model moveset_rl_model_r1.pt
 
 # Generate for specific Pokémon
-python ai.py --pokemon "Garchomp"
+python ai.py --pokemon -p Skeledirge
 ```
 
 ### Counter Finding
