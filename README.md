@@ -36,7 +36,6 @@ project/
 │   │   └── models/         # Trained models and generated movesets
 │   │       ├── all_movesets_r*.json
 │   │       └── moveset_rl_model_*.pt
-│   ├── pokemon-showdown/   # Local Pokemon Showdown instance
 │   └── seed42_*.json      # Experimental results and benchmarks
 ├── old/                    # Legacy implementations and ALL historical versions
 │   ├── aiV1.py            # XGBoost-based moveset generator
