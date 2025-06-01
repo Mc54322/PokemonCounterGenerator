@@ -1,4 +1,4 @@
-# Pokémon AI Counter Generator Project
+# Pokémon Competitive AI Project
 
 A comprehensive machine learning system for generating optimal Pokémon movesets and finding strategic counters, featuring reinforcement learning, GPT-based evaluation, and battle simulation capabilities.
 
@@ -75,11 +75,15 @@ pip install torch scikit-learn pandas numpy joblib tqdm poke-env openai xgboost
 ```
 
 2. Set up local Pokémon Showdown server:
+
+First, clone the official Pokémon Showdown repository:
 ```bash
-cd core/pokemon-showdown
+cd core/
+git clone https://github.com/smogon/pokemon-showdown.git
+cd pokemon-showdown
 node pokemon-showdown start --no-security
 ```
-**Note**: The local Showdown instance must be running for battle simulations to work.
+**Note**: This project uses the official Pokémon Showdown simulator from Smogon (https://github.com/smogon/pokemon-showdown). The local Showdown instance must be running for battle simulations to work.
 
 3. Configure OpenAI API key in `core/apichecker.py` for GPT-based moveset evaluation.
    - **Total project cost**: Less than $15 USD for all GPT evaluations
@@ -103,7 +107,7 @@ python ai.py --export-json
 python ai.py --rounds --load-model moveset_rl_model_r1.pt
 
 # Generate for specific Pokémon
-python ai.py --pokemon -p Skeledirge
+python ai.py --pokemon Skeledirge
 ```
 
 ### Counter Finding
@@ -267,7 +271,7 @@ Careful Nature
 - **Feature interaction modeling** for nature-stat synergies
 
 ### Battle Integration
-- **Real-time simulation** via local Pokémon Showdown
+- **Real-time simulation** via official Pokémon Showdown (https://github.com/smogon/pokemon-showdown)
 - **Win rate optimization** through actual battle outcomes
 - **Automated testing** of thousands of matchups
 
@@ -293,7 +297,10 @@ The project showcases clear evolution in approach:
 ## 🔧 Configuration
 
 ### Required Setup
-1. **Local Showdown**: Must run `node pokemon-showdown start --no-security` in `core/pokemon-showdown/`
+1. **Local Showdown**: 
+   - Clone official Pokémon Showdown: `git clone https://github.com/smogon/pokemon-showdown.git`
+   - Run `node pokemon-showdown start --no-security` in the cloned directory
+   - This project relies on the official Smogon Pokémon Showdown simulator for battle validation
 2. **API Keys**: Configure OpenAI key in `core/apichecker.py` (total cost < $15)
 3. **Data Paths**: Core datasets located in `core/data/`
 4. **Models**: Trained models stored in `core/data/models/` and `old/dataModels/`
